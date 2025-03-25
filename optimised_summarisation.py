@@ -2,7 +2,9 @@ import sys
 import re
 import time
 import numpy as np
-import openai
+from openai import OpenAI
+
+client = OpenAI(api_key=API_KEY)
 from sklearn.cluster import KMeans
 from sklearn.feature_extraction.text import TfidfVectorizer
 
@@ -10,7 +12,6 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from config import API_KEY, DATA_FILE_PATH, SUMMARY_OUTPUT_TXT, SUMMARY_OUTPUT_EMB
 
 # Set OpenAI API key from config
-openai.api_key = API_KEY
 
 def load_reviews(filename):
     """Load reviews from a specified text file."""
@@ -29,14 +30,12 @@ def gpt4_summarize(text, system_instruction="You are an expert summarizer focuse
     if not text.strip():
         return "No meaningful text to summarize."
     try:
-        response = openai.ChatCompletion.create(
-            model="gpt-4",
-            messages=[
-                {"role": "system", "content": system_instruction},
-                {"role": "user", "content": text}
-            ]
-        )
-        summary = response['choices'][0]['message']['content'].strip()
+        response = client.chat.completions.create(model="gpt-4",
+        messages=[
+            {"role": "system", "content": system_instruction},
+            {"role": "user", "content": text}
+        ])
+        summary = response.choices[0].message.content.strip()
         return summary
     except Exception as e:
         print(f"Error summarizing text: {e}")
@@ -70,11 +69,9 @@ def generate_embeddings(reviews):
     embeddings = []
     for review in reviews:
         try:
-            response = openai.Embedding.create(
-                input=review,
-                model="text-embedding-ada-002"
-            )
-            embeddings.append(response['data'][0]['embedding'])
+            response = client.embeddings.create(input=review,
+            model="text-embedding-ada-002")
+            embeddings.append(response.data[0].embedding)
         except Exception as e:
             print(f"Error generating embedding for review '{review[:60]}': {e}")
             # Fallback to a zero embedding to maintain shape
@@ -123,15 +120,15 @@ def scenario_2():
     reviews = load_reviews(DATA_FILE_PATH)
     embeddings = generate_embeddings(reviews)
     clusters_dict = cluster_reviews(embeddings, reviews, n_clusters=5)
-    
+
     summaries = []
     for cluster_id, reviews_in_cluster in clusters_dict.items():
         cluster_text = " ".join(reviews_in_cluster)
-        
+
         # Summarize cluster text with GPT-4
         prompt = f"Please summarize this cluster of user feedback:\n\n{cluster_text}"
         summary = gpt4_summarize(prompt, "You are an expert summarizer focusing on the main themes.")
-        
+
         if summary:
             summaries.append(f"Cluster {cluster_id}:\n{summary}")
         else:
@@ -146,15 +143,15 @@ def scenario_3():
     """Scenario 3: Cluster reviews using TF-IDF (no embeddings), then summarize each cluster."""
     reviews = load_reviews(DATA_FILE_PATH)
     clusters = traditional_cluster_reviews(reviews, n_clusters=5)
-    
+
     summaries = []
     for cluster_id, cluster_reviews in clusters.items():
         cluster_text = " ".join(cluster_reviews)
-        
+
         # Summarize cluster text with GPT-4
         prompt = f"Please summarize this cluster of user feedback:\n\n{cluster_text}"
         summary = gpt4_summarize(prompt, "You are an expert summarizer focusing on the main themes.")
-        
+
         if summary:
             summaries.append(f"Cluster {cluster_id}:\n{summary}")
         else:

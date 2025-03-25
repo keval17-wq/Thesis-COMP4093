@@ -3,7 +3,9 @@
 
 import os
 import sys
-import openai
+from openai import OpenAI
+
+client = OpenAI(api_key=config.API_KEY)
 import numpy as np
 import config
 import nltk
@@ -26,7 +28,6 @@ except LookupError:
 ########################################
 # 1. LOAD API KEY FROM config.py
 ########################################
-openai.api_key = config.API_KEY
 
 ########################################
 # 2. HELPER FUNCTIONS
@@ -47,8 +48,8 @@ def generate_review_embeddings(reviews, model=config.MODEL):
     embeddings = []
     for r in reviews:
         try:
-            resp = openai.Embedding.create(input=r, model=model)
-            emb = resp["data"][0]["embedding"]
+            resp = client.embeddings.create(input=r, model=model)
+            emb = resp.data[0].embedding
         except Exception as e:
             print(f"[Error] Embedding generation failed for '{r[:60]}' => {e}")
             emb = [0.0]
