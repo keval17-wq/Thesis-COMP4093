@@ -1,9 +1,20 @@
+Extracted Top Sentences (Augmented):
+Dark mode is a great addition, thanks for listening
+The app crashes frequently when I try to upload images
+The loading speed is way too slow on mobile devices
+Really love the new UI – it's so clean and modern now
+Customer support was super helpful when I had a billing issue
+Notifications aren't working properly after the last update
+The onboarding tutorial made it really easy to get started
+It's frustrating that I can't export my data easily
+There are way too many ads in the free version
+I’d love to see integration with Google Calendar
 
 
-
-Final GPT Summary:
+Final GPT-4 Summary:
 Users have expressed appreciation for the addition of the dark mode feature and the clean, modern user interface. The onboarding tutorial is deemed helpful for new users, and the customer support team is praised for assisting with billing issues. 
 
 However, there are significant issues with the application's performance, including frequent crashes while trying to upload images, slow loading speed on mobile devices, and malfunctioning notifications following the latest update. Other areas of frustration are the difficulty in exporting data and the abundance of ads in the free version. 
 
 Users have also requested for an integration with Google Calendar in future updates.
+

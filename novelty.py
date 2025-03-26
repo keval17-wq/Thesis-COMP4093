@@ -213,75 +213,85 @@ def scenario_4():
 # -------------------------------
 # Scenario 5 (with debugging, optional sentiment)
 # -------------------------------
-def scenario_5(include_sentiment=True, top_n=15):
+def scenario_5_augmented(include_sentiment=True, top_n=15, alpha=0.2):
     """
-    Novelty/Hybrid approach:
+    Enhanced Novelty/Hybrid Approach:
       1) Use TF-IDF to extract top N sentences from all reviews.
-      2) (Optional) run sentiment analysis on each extracted sentence.
-      3) Summarize the result using GPT-4.
+      2) (Optionally) Reweight the TF-IDF scores using sentiment strength as an auxiliary feature.
+      3) Summarize the result with GPT-4.
+      
+    Parameters:
+      include_sentiment: if True, adjust scores using sentiment.
+      top_n: number of top sentences to extract.
+      alpha: weight factor for sentiment (small value so as not to overshadow factual content).
+             For example, a sentence with a strong sentiment (absolute compound score near 1)
+             would have its score boosted by a factor of (1 + alpha), while near neutral (score ~0)
+             remains almost unchanged.
     """
     import time
     start_time = time.time()
-    print(f"[DEBUG] Starting Scenario 5 (include_sentiment={include_sentiment}, top_n={top_n})")
+    print(f"[DEBUG] Starting Augmented Scenario 5 (include_sentiment={include_sentiment}, top_n={top_n}, alpha={alpha})")
 
-    # 1) Load and extract
+    # 1) Load reviews and split into sentences
     reviews = load_reviews(DATA_FILE_PATH)
     full_text = " ".join(reviews)
     sentences = re.split(r'[.!?]+', full_text)
     sentences = [s.strip() for s in sentences if s.strip()]
-    print(f"[DEBUG] Found {len(sentences)} total sentences.")
-
+    print(f"[DEBUG] Found {len(sentences)} sentences in total.")
     if not sentences:
-        print("[DEBUG] No sentences found. Exiting Scenario 5.")
+        print("[DEBUG] No sentences found. Exiting augmented Scenario 5.")
         return
 
-    # TF-IDF extraction
-    print("[DEBUG] Performing TF-IDF scoring.")
+    # 2) Compute basic TF-IDF scores for each sentence
     vec = TfidfVectorizer(stop_words='english')
     X = vec.fit_transform(sentences)
-    scores = X.sum(axis=1).A1
-    sorted_indices = np.argsort(scores)[::-1]
+    tfidf_scores = X.sum(axis=1).A1
 
-    top_n = min(top_n, len(sorted_indices))
-    top_sents = [sentences[i] for i in sorted_indices[:top_n]]
-    print(f"[DEBUG] Extracted top {top_n} sentences.")
-
-    # 2) Optional sentiment
-    labeled_sents = []
+    # 3) Optionally reweight TF-IDF scores based on sentiment intensity
+    # We'll use a simple heuristic: new_score = tfidf_score * (1 + alpha * sentiment_magnitude)
+    adjusted_scores = []
     if include_sentiment and sentiment_pipeline:
-        print("[DEBUG] Running sentiment analysis.")
-        results = sentiment_pipeline(top_sents)
-        for s, r in zip(top_sents, results):
-            labeled_sents.append(f"• {s}\n   Sentiment: {r['label']} (score={r['score']:.2f})")
+        print("[DEBUG] Running sentiment analysis on extracted sentences.")
+        sentiment_results = sentiment_pipeline(sentences)
+        for s, score in zip(tfidf_scores, sentiment_results):
+            # sentiment_results typically have keys "label" and "score"
+            # We'll consider the "score" as the sentiment magnitude (if not neutral, boost it)
+            # For demonstration, assume that both POSITIVE and NEGATIVE have similar magnitude.
+            adjusted = s * (1 + alpha * score["score"])
+            adjusted_scores.append(adjusted)
     else:
-        if include_sentiment and not sentiment_pipeline:
-            print("[DEBUG] Sentiment pipeline not available. Skipping sentiment.")
-        labeled_sents = [f"• {s}" for s in top_sents]
+        adjusted_scores = tfidf_scores
 
-    # 3) Final GPT summary
-    print("[DEBUG] Calling GPT-4 for final summary.")
-    prompt = (
-        "Below are key extracted sentences from user feedback.\n"
-        "Some include sentiment labels:\n\n"
-        + "\n\n".join(labeled_sents)
-        + "\n\nPlease generate a concise, high-level summary of major themes and sentiments and categorise them by Product teams: Summarize feature requests and technical issues. Customer support: Emphasize complaints and service-related feedback. Executives: Provide a high-level overview of major trends and insights."
+    # 4) Select top sentences based on the adjusted scores
+    sorted_indices = np.argsort(adjusted_scores)[::-1]
+    selected_n = min(top_n, len(sorted_indices))
+    top_sentences = [sentences[i] for i in sorted_indices[:selected_n]]
+    print(f"[DEBUG] Selected top {selected_n} sentences after reweighting.")
+
+    # 5) Prepare a prompt that mentions that sentiment was used to refine extraction (but not to dominate)
+    prompt_content = (
+        "Below are the top extracted sentences from user feedback. "
+        "These were selected based on their TF-IDF scores, with additional weight given to sentences showing strong sentiment, "
+        "so as to capture critical emotional cues without overshadowing the main content:\n\n"
+        + "\n\n".join([f"• {s}" for s in top_sentences]) +
+        "\n\nPlease generate a concise final summary that captures the key themes and insights, "
+        "balancing factual content with any important sentiments."
     )
-    final_summary = gpt4_summarize(prompt, "You are an expert summarizer identifying insights from feedback.")
-
+    final_summary = gpt4_summarize(prompt_content, "You are an expert summarizer focusing on key feedback themes.")
     if not final_summary:
         final_summary = "Summary generation failed."
 
-    # Save
+    # 6) Save the final result (for clarity, we save both the extracted sentences and the final summary)
     output_data = [
-        "Extracted Sentences:\n" + "\n".join(top_sents),
-        "\nSentiment-Labeled Sentences:\n" + "\n".join(labeled_sents),
-        "\nFinal GPT Summary:\n" + final_summary
+        "Extracted Top Sentences (Augmented):\n" + "\n".join(top_sentences),
+        "\nFinal GPT-4 Summary:\n" + final_summary
     ]
-    save_summaries(output_data, "scenario_5_summary.txt")
+    save_summaries(output_data, "scenario_5_augmented_summary.txt")
 
     elapsed = time.time() - start_time
-    print(f"[DEBUG] Scenario 5 completed in {elapsed:.2f} seconds.")
+    print(f"[DEBUG] Augmented Scenario 5 completed in {elapsed:.2f} seconds.")
     print("End of program.")
+
 
 # -------------------------------
 # MAIN
@@ -305,7 +315,7 @@ if __name__ == "__main__":
         scenario_4()
     elif choice == "5":
         # Toggle sentiment if you want
-        scenario_5(include_sentiment=True)
+        scenario_5_augmented(include_sentiment=True)
     else:
         print("Invalid choice. Exiting.")
         sys.exit()
