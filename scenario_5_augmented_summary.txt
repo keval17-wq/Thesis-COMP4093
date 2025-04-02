@@ -12,9 +12,5 @@ I’d love to see integration with Google Calendar
 
 
 Final GPT-4 Summary:
-Users have expressed appreciation for the addition of the dark mode feature and the clean, modern user interface. The onboarding tutorial is deemed helpful for new users, and the customer support team is praised for assisting with billing issues. 
-
-However, there are significant issues with the application's performance, including frequent crashes while trying to upload images, slow loading speed on mobile devices, and malfunctioning notifications following the latest update. Other areas of frustration are the difficulty in exporting data and the abundance of ads in the free version. 
-
-Users have also requested for an integration with Google Calendar in future updates.
+Summary generation failed.
 
