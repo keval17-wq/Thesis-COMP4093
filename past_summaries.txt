@@ -125,3 +125,640 @@ The air conditioning was noisy and disrupted sleep.
 
 Ideal Summary:
 The hotel is praised for its spacious rooms, friendly staff, and convenient location near major attractions. Amenities like the pool and gym are well-received. However, cleanliness issues, noisy air conditioning, and poor Wi-Fi connectivity are recurring complaints. Room service is described as slow and often unresponsive, though the check-in process is generally efficient. Improving staff availability and resolving maintenance issues would significantly enhance guest satisfaction.
+
+
+
+6: Grocery Delivery Service Reviews (Logistics & User Experience)
+Orders often arrive late despite paying for priority delivery.
+
+Good range of organic and gluten-free products.
+
+App is glitchy and fails to process payments occasionally.
+
+Friendly delivery staff but frequently missing items.
+
+Prices are competitive compared to other services.
+
+Replacements for unavailable items are rarely suitable.
+
+Packaging is excessive and environmentally unfriendly.
+
+Convenient scheduling system but unreliable tracking feature.
+
+Promotional codes are frequently invalid.
+
+The subscription model offers value but lacks transparency.
+
+Ideal Summary:
+The grocery delivery service offers a diverse product range, including organic and gluten-free options, with prices that are competitive compared to alternatives. Users appreciate friendly delivery staff but commonly report issues related to delayed deliveries, missing items, and unsuitable replacements. The app is noted for being glitchy, with particular problems processing payments and tracking orders. Excessive packaging and inconsistent promotional codes also generate complaints. Improving reliability, transparency, and usability would enhance customer satisfaction.
+
+
+
+7: Teacher Reviews (Student Feedback & Teaching Quality)
+The teacher explains concepts clearly but moves through topics too quickly.
+
+Very approachable and always willing to help students after class.
+
+Lectures are engaging, but the assignments are unnecessarily difficult.
+
+Rarely responds to emails or messages, making it hard to get clarification.
+
+Grading is fair but feedback is vague and not very helpful.
+
+Uses interactive teaching methods that make learning fun and accessible.
+
+Provides excellent resources but lacks structure during lectures.
+
+Often shows bias towards certain students, making others feel neglected.
+
+The course material is well-organized and easy to follow.
+
+Can be strict but genuinely cares about student success.
+
+Ideal Summary:
+The teacher is appreciated for being approachable, knowledgeable, and engaging during lectures, especially when employing interactive teaching methods. Positive remarks also include the clarity of explanations and the availability of useful resources. However, criticisms include poor responsiveness to messages, vague feedback, lack of structure during lectures, and perceived favoritism. Suggestions for improvement include enhancing feedback quality, communication, and lesson organization.
+
+
+
+8: Online Retail Store Reviews (Shipping & Product Quality)
+Fast shipping but poor packaging resulted in damaged items.
+
+Great discounts but misleading product descriptions.
+
+Customer service was friendly but not helpful.
+
+Returns process is overly complicated and time-consuming.
+
+Excellent range of products but inconsistent availability.
+
+The website is slow and prone to crashing during sales.
+
+Delivery tracking is inaccurate and outdated.
+
+Pricing is reasonable but quality control is lacking.
+
+Positive experience with product recommendations.
+
+The user interface is cluttered and hard to navigate.
+
+Ideal Summary:
+The online retail store offers attractive discounts and a wide selection of products, but frequently suffers from poor packaging, inaccurate descriptions, and inconsistent availability. Customer service is friendly but not effective at resolving issues. Additionally, the website's performance is unstable during peak times, and quality control appears inadequate. Improving packaging standards, enhancing product descriptions, and streamlining the returns process would likely improve customer satisfaction.
+
+
+
+9: Customer Support Reviews (Service Quality & Response)
+The representative was friendly but lacked product knowledge.
+
+Long wait times even during off-peak hours.
+
+Automated responses are unhelpful and feel impersonal.
+
+The agent resolved my issue quickly and professionally.
+
+Inconsistent follow-up on unresolved problems.
+
+Helpful support staff but unable to address my issue.
+
+The chat feature is efficient, but phone support is terrible.
+
+Confusing ticketing system that leads to repeated requests.
+
+Staff seemed overwhelmed and rushed during the call.
+
+Positive experience with billing inquiries.
+
+Ideal Summary:
+Customer support receives mixed reviews. Users appreciate when agents are friendly and professional, particularly when handling billing inquiries. However, several complaints revolve around long wait times, poor product knowledge, ineffective automated responses, and inconsistent follow-ups. The chat feature is more effective than phone support, but the ticketing system is confusing and often results in unresolved requests. Streamlining the support process and enhancing agent training could significantly improve user satisfaction.
+
+
+
+10: Streaming Service Reviews (Content & Performance)
+The selection of movies is excellent but lacks regional diversity.
+
+Video playback occasionally buffers, even on fast connections.
+
+Original content is top-notch and engaging.
+
+Subscription plans are overpriced for the content offered.
+
+The mobile app often fails to resume videos from where I left off.
+
+The recommendation engine feels too generic and inaccurate.
+
+Frequent updates cause app crashes on older devices.
+
+Customer support is responsive but unable to resolve playback issues.
+
+User interface is sleek but not user-friendly on smart TVs.
+
+New releases are added slowly compared to competitors.
+
+Ideal Summary:
+The streaming service is well-regarded for its engaging original content and diverse movie selection. However, users consistently complain about buffering issues, high subscription costs, poor recommendation accuracy, and device compatibility problems. Frequent app updates introduce new bugs, particularly for older devices. Enhancing the user interface, improving content recommendations, and stabilizing playback would enhance user satisfaction.
+
+
+
+
+11. Online Learning Platform Reviews (Content & Accessibility)
+Great range of courses but the interface feels outdated.
+
+Instructors are knowledgeable but often respond late to queries.
+
+Course certificates are valuable and recognized by employers.
+
+The mobile app is clunky and crashes frequently.
+
+Excellent customer support through live chat.
+
+Content is comprehensive but lacks engagement for beginners.
+
+Limited offline access makes learning difficult during travel.
+
+Subscription model is expensive for casual learners.
+
+Video quality is inconsistent, especially during live sessions.
+
+No effective system for peer interaction or networking.
+
+Ideal Summary:
+The online learning platform offers a diverse catalog of courses with certificates that hold professional value, which appeals to career-oriented users. Despite knowledgeable instructors and efficient live chat support, learners frequently encounter technical issues, particularly with the mobile app, outdated interface, and inconsistent video quality. The lack of peer interaction systems and offline access limits user engagement, especially during travel. Additionally, the subscription model is considered prohibitively expensive for casual learners. Enhancing the user interface, providing a smoother mobile experience, and introducing affordable pricing tiers could significantly improve user satisfaction.
+
+
+
+12. Fitness App Reviews (Health Tracking & Usability)
+The exercise routines are well-designed but too advanced for beginners.
+
+The meal planning feature is excellent and offers a wide variety of options.
+
+Syncing issues with smartwatches are frequent and frustrating.
+
+The user interface is sleek and easy to navigate.
+
+Motivational notifications are encouraging but too frequent.
+
+The app frequently logs me out, causing data loss.
+
+No customization options for workout difficulty levels.
+
+Customer support is slow and unresponsive.
+
+Great integration with fitness forums and communities.
+
+The calorie tracker is highly accurate and detailed.
+
+Ideal Summary:
+The fitness app is appreciated for its detailed calorie tracking, comprehensive meal planning, and seamless integration with fitness communities. Its modern interface provides a user-friendly experience. However, users struggle with syncing issues, data loss from random logouts, and a lack of customization for workout difficulty levels. While motivational notifications are valued, their frequency can be overwhelming. The app’s appeal is hindered by poor customer support and inadequate personalization options. Addressing these concerns through improved stability, responsive customer service, and customizable workout plans would enhance the overall experience.
+
+
+
+13. Airline Reviews (Flight Experience & Service)
+Smooth check-in process but delayed flights are common.
+
+In-flight entertainment options are outdated and limited.
+
+Excellent customer service from cabin crew.
+
+Legroom is insufficient for longer flights.
+
+Meal options are decent but lack variety for dietary restrictions.
+
+Baggage handling is efficient but often results in minor damage.
+
+Online booking system is easy to use but glitches occasionally.
+
+Prices are reasonable compared to competitors.
+
+Noisy environment during the flight makes it hard to rest.
+
+Frequent cancellations with poor communication from the airline.
+
+Ideal Summary:
+The airline is noted for its competitive pricing, efficient baggage handling, and friendly cabin crew. Positive experiences include a smooth online booking system and excellent customer service. However, persistent issues such as frequent flight delays, lack of dietary variety in meal options, poor in-flight entertainment, and insufficient legroom negatively impact the overall experience. Repeated flight cancellations with inadequate communication create frustration. Enhancing communication channels, improving entertainment systems, and offering better meal diversity would provide a more satisfying travel experience.
+
+
+
+14. Banking App Reviews (Financial Services & Accessibility)
+The app provides clear transaction histories but lacks customization options.
+
+Customer support is responsive but limited to working hours.
+
+Mobile deposits are convenient but occasionally fail to process.
+
+Notifications are timely but often overwhelming.
+
+Budgeting tools are helpful but overly simplistic.
+
+App security is robust, providing peace of mind.
+
+Poor integration with external financial tools.
+
+Inconsistent biometric login features.
+
+High fees for international transactions.
+
+User interface is cluttered and difficult to navigate.
+
+Ideal Summary:
+The banking app is appreciated for its strong security measures, responsive customer support, and efficient mobile deposits. However, users encounter challenges with the cluttered interface, unreliable biometric login, and high international transaction fees. Budgeting tools, though helpful, are perceived as overly simplistic, lacking advanced features needed for comprehensive financial planning. Additionally, poor integration with external tools and limited support availability detract from the overall experience. Enhanced customization, better interface design, and improved tool compatibility are recommended.
+
+
+
+15. Healthcare Service Reviews (Telehealth & Accessibility)
+The platform offers prompt consultations but lacks specialty doctors.
+
+Easy scheduling system but rescheduling is complicated.
+
+Video quality during consultations is often poor.
+
+Prescription delivery is fast and accurate.
+
+Lack of mental health services is a notable gap.
+
+Follow-up processes are well-organized and efficient.
+
+Consultations feel rushed and impersonal.
+
+The app crashes frequently, especially during video calls.
+
+Customer support is slow to respond to urgent inquiries.
+
+Price is high compared to traditional in-person visits.
+
+Ideal Summary:
+The healthcare service is valued for its efficient scheduling system, prompt consultations, and reliable prescription delivery. However, numerous complaints highlight technical issues such as poor video quality, frequent app crashes, and inadequate customer support. The absence of mental health services and the lack of specialist availability are significant shortcomings. High consultation fees compared to in-person visits deter many users. Enhancing app stability, broadening the scope of services offered, and making customer support more responsive are essential improvements.
+
+
+
+16. Job Portal Reviews (Hiring Process & User Experience)
+The application tracking system is useful but often buggy.
+
+Job recommendations are mostly irrelevant to my profile.
+
+Excellent resume-building tools provided by the platform.
+
+Customer service is unhelpful when handling technical issues.
+
+The website is slow and frequently crashes.
+
+Alerts for new job postings are delayed.
+
+Interface is outdated and difficult to navigate.
+
+The subscription fees are too high for the services offered.
+
+Networking tools are useful but underdeveloped.
+
+The search function is inaccurate, often yielding irrelevant results.
+
+Ideal Summary:
+The job portal provides valuable resume-building tools and underdeveloped but promising networking features. However, users face significant challenges due to a buggy application tracking system, irrelevant job recommendations, and frequent website crashes. High subscription fees and a poorly designed interface contribute to frustration, while the search function often returns irrelevant results. Improving search accuracy, enhancing networking capabilities, and optimizing performance would enhance user satisfaction.
+
+
+
+17. Educational Institution Reviews (Teaching Quality & Facilities)
+The library is well-stocked but lacks adequate seating.
+
+Professors are knowledgeable but not always approachable.
+
+The campus is beautiful but poorly maintained.
+
+Administrative processes are slow and bureaucratic.
+
+Extracurricular opportunities are plentiful and engaging.
+
+High fees with minimal financial aid options.
+
+Online learning tools are outdated and prone to glitches.
+
+Sports facilities are well-equipped but underutilized.
+
+Course material is informative but overly theoretical.
+
+The cafeteria offers decent food but limited options.
+
+Ideal Summary:
+The educational institution is recognized for its well-equipped library, plentiful extracurricular opportunities, and knowledgeable professors. However, numerous concerns are raised about poor maintenance, outdated online learning tools, and bureaucratic administrative processes. High tuition fees with limited financial aid options further exacerbate dissatisfaction. Enhancing practical learning experiences, improving facility maintenance, and updating technological resources would significantly improve the institution’s appeal.
+
+
+
+18. Ride-Sharing Service Reviews (Safety & Efficiency)
+Drivers are courteous but often arrive late.
+
+The app’s navigation system is inaccurate, causing delays.
+
+Prices fluctuate unpredictably during peak hours.
+
+Customer support is unresponsive to complaints.
+
+Vehicle cleanliness is generally satisfactory.
+
+The ride-sharing pool option is affordable but often overbooked.
+
+Safety features are robust but inconsistently applied.
+
+The app crashes frequently during payments.
+
+Drivers cancel rides frequently, causing frustration.
+
+Availability is limited in suburban areas.
+
+Ideal Summary:
+The ride-sharing service is praised for its courteous drivers, affordability of ride-pooling, and satisfactory vehicle cleanliness. However, serious issues include unresponsive customer support, unpredictable pricing, inaccurate navigation systems, and frequent ride cancellations. Safety features are acknowledged but inconsistently applied, while availability is lacking in suburban areas. Enhancing reliability, ensuring consistent safety practices, and expanding service coverage would improve user satisfaction.
+
+
+
+19. Streaming Platform Reviews (Content Variety & User Interface)
+Excellent original series but outdated movie catalog.
+
+The mobile app is intuitive but crashes during downloads.
+
+Subscription plans are overpriced.
+
+Content recommendation algorithms are generic and often irrelevant.
+
+High-quality streaming, but buffering issues persist during peak hours.
+
+Poor customer support with limited communication channels.
+
+The interface is sleek but lacks customization options.
+
+Frequent ads make the experience frustrating.
+
+Inconsistent subtitles for foreign content.
+
+Accessibility features are lacking for visually impaired users.
+
+Ideal Summary:
+The streaming platform is noted for its high-quality original series and sleek interface. However, the outdated movie catalog, frequent buffering issues, and inadequate customer support detract from the user experience. Users express frustration over poor content recommendations, overpriced subscription plans, and intrusive advertisements. Improved accessibility features, enhanced subtitle accuracy, and greater customization options are essential for retaining user satisfaction.
+
+
+
+20. Online Retail Reviews (Product Quality & Shipping)
+Products are often not as described and lack quality assurance.
+
+Shipping is fast but packaging is substandard.
+
+The website’s checkout process is confusing and slow.
+
+Customer service is friendly but ineffective at resolving issues.
+
+Return policies are restrictive and unclear.
+
+Great selection of products but availability is inconsistent.
+
+The search function is unreliable, making it difficult to find specific items.
+
+Prices are competitive but not reflective of product quality.
+
+Delivery tracking is frequently inaccurate.
+
+Discounts and promotional offers are appealing but often misleading.
+
+Ideal Summary:
+The online retail platform provides a wide selection of products at competitive prices. However, users frequently encounter quality assurance issues, unreliable delivery tracking, and a confusing checkout process. While discounts and promotional offers are appealing, they are often misleading, leading to dissatisfaction. Improving product descriptions, enhancing packaging standards, and clarifying return policies would likely improve the overall shopping experience.
+
+
+21. E-commerce Platform Reviews (Product Variety & Customer Service)
+Great selection of electronics but limited availability for specific models.
+
+Refund process is tedious and time-consuming.
+
+The mobile app is easy to use but lacks advanced filtering options.
+
+Prices are competitive but vary significantly between sellers.
+
+Customer support is helpful but difficult to reach.
+
+Delivery times are unpredictable, especially for international orders.
+
+Payment options are convenient but prone to errors.
+
+The search function is inaccurate, often missing relevant items.
+
+Discounts are appealing but often misleading.
+
+User reviews are helpful but frequently outdated.
+
+Ideal Summary:
+The e-commerce platform offers a wide variety of electronics and competitive pricing, but suffers from limited availability for specific models and inconsistent delivery times, particularly for international orders. Issues include tedious refund processes, inaccurate search results, and unreliable payment systems. While customer support is helpful, it is difficult to access, leading to user frustration. Enhancing filtering options, refining search algorithms, and improving customer service accessibility would enhance the overall experience.
+
+
+22. Food Delivery Service Reviews (Delivery Efficiency & Food Quality)
+Food arrives cold despite short delivery distances.
+
+The app’s interface is intuitive and easy to navigate.
+
+Menu options are diverse but often outdated.
+
+Delivery fees are high during peak hours.
+
+Customer support is unhelpful when handling refunds.
+
+Efficient tracking system but occasionally inaccurate.
+
+Drivers are polite but often arrive late.
+
+Promotions are frequent but sometimes misleading.
+
+Restaurant partnerships are extensive but inconsistent in quality.
+
+No allergy or dietary preference filtering options.
+
+Ideal Summary:
+The food delivery service is appreciated for its intuitive interface, efficient tracking system, and diverse restaurant partnerships. However, users frequently encounter cold food deliveries, high fees during peak hours, and poor customer support when handling refunds. Additionally, issues with inconsistent restaurant quality, misleading promotions, and lack of filtering options for dietary preferences are common complaints. Improving delivery efficiency and enhancing filtering features would significantly improve user satisfaction.
+
+
+23. Travel Booking Platform Reviews (Booking Experience & Customer Support)
+The booking process is straightforward but occasionally buggy.
+
+Prices are competitive but fluctuate frequently.
+
+Customer service is friendly but difficult to reach.
+
+Mobile app crashes frequently during payment processing.
+
+Search filters are limited and often inaccurate.
+
+Cancellation policies are unclear and inconsistent.
+
+Positive experiences with hotel booking recommendations.
+
+Flight options are limited compared to competitors.
+
+Promotions are attractive but often have hidden restrictions.
+
+Email notifications are overwhelming and lack clarity.
+
+Ideal Summary:
+The travel booking platform is valued for its straightforward booking process, competitive pricing, and effective hotel recommendations. However, the experience is hindered by technical issues, particularly with the mobile app, and inconsistent cancellation policies. Users find the search filters inadequate, promotional offers restrictive, and customer service difficult to access. Enhancing user interface stability, providing clearer cancellation policies, and expanding search functionality would enhance user satisfaction.
+
+
+24. Fitness Studio Reviews (Service Quality & Membership Experience)
+Instructors are highly skilled but occasionally rude.
+
+The facility is clean but often overcrowded.
+
+Membership plans are flexible but expensive.
+
+Booking classes through the app is confusing and glitchy.
+
+Customer support is slow to respond to queries.
+
+Classes are varied and cater to all skill levels.
+
+Equipment is well-maintained but limited during peak hours.
+
+Training sessions are effective but lack personalization.
+
+Positive atmosphere but noisy during group classes.
+
+No clear policies for cancellations or rescheduling.
+
+Ideal Summary:
+The fitness studio offers skilled instructors, diverse classes, and well-maintained equipment. However, users encounter issues with overcrowding, confusing booking systems, and high membership costs. The lack of personalized training and inconsistent customer support response times also contribute to dissatisfaction. Implementing clearer policies, improving app functionality, and enhancing customer service responsiveness would likely improve the experience.
+
+
+25. Freelance Platform Reviews (Job Matching & Payment Systems)
+The platform offers a wide range of job categories.
+
+Payment processing is slow and often inaccurate.
+
+Job postings are frequently outdated.
+
+Communication tools are helpful but sometimes glitchy.
+
+Customer support is unresponsive to payment issues.
+
+The rating system is easily manipulated.
+
+Profiles are customizable but lack visibility to potential clients.
+
+The bidding process is competitive but often unfair.
+
+Tutorials are useful but not comprehensive.
+
+High fees for premium memberships.
+
+Ideal Summary:
+The freelance platform is appreciated for its broad range of job categories and useful communication tools. However, payment processing issues, outdated job postings, and unresponsive customer support frequently frustrate users. The platform's rating system is susceptible to manipulation, while premium memberships are perceived as costly. Users suggest improving payment reliability, enhancing profile visibility, and providing clearer guidelines for the bidding process.
+
+
+26. Streaming Service Reviews (Content Variety & Performance)
+Excellent selection of documentaries but limited foreign films.
+
+Playback issues during peak hours.
+
+Subscription plans are overpriced.
+
+Recommendations are mostly irrelevant to my interests.
+
+User interface is sleek but lacks customization options.
+
+Buffering issues persist despite high-speed internet.
+
+Original content is impressive but infrequent.
+
+Customer support is slow and inefficient.
+
+New releases are added slowly compared to competitors.
+
+Search function is inconsistent and often inaccurate.
+
+Ideal Summary:
+The streaming service is noted for its impressive selection of documentaries and sleek user interface. However, frequent buffering issues, poor recommendation algorithms, and delayed addition of new releases are common complaints. Users find the subscription plans overpriced and customer support inadequate. Suggestions include enhancing content diversity, improving recommendation systems, and providing better customer support.
+
+27. Ride-Sharing App Reviews (User Safety & Reliability)
+Drivers are courteous but frequently cancel rides without notice.
+
+The app’s GPS often leads drivers to incorrect pickup locations.
+
+Safety features are useful but inconsistently applied.
+
+Surge pricing is excessive during peak hours.
+
+App crashes frequently during booking.
+
+Ride-pooling options are affordable but poorly managed.
+
+Customer support is unhelpful and difficult to reach.
+
+Vehicle cleanliness is generally satisfactory.
+
+Driver ratings are often manipulated or inaccurate.
+
+Limited availability in suburban and rural areas.
+
+Ideal Summary:
+The ride-sharing app offers affordable ride-pooling options and generally courteous drivers. However, persistent issues include frequent ride cancellations, inaccurate GPS guidance, and poor customer support. Safety features, though useful, are not consistently applied, and the app often crashes during booking attempts. Additionally, excessive surge pricing and limited service availability in rural areas contribute to user dissatisfaction. Improving GPS accuracy, enhancing safety feature consistency, and expanding service coverage would improve overall satisfaction.
+
+28. Cloud Storage Service Reviews (Security & Accessibility)
+Secure encryption provides peace of mind but slows down uploads.
+
+File organization features are helpful but lack customization.
+
+Customer support is responsive but not knowledgeable.
+
+Frequent outages affect accessibility.
+
+Pricing plans are unclear and overly expensive.
+
+Syncing issues across devices are common.
+
+The mobile app interface is intuitive but buggy.
+
+Limited storage capacity for free users.
+
+Collaboration tools are innovative but often lag.
+
+Data recovery features are effective and user-friendly.
+
+Ideal Summary:
+The cloud storage service is praised for its robust encryption and effective data recovery tools, providing users with a sense of security. However, frequent outages, syncing issues, and unresponsive collaboration tools diminish user satisfaction. Additionally, unclear pricing plans and limited storage capacity for free users are major concerns. Improving service reliability, enhancing collaboration features, and offering more transparent pricing structures would likely attract a broader user base.
+
+29. Online Marketplace Reviews (Product Listings & Seller Interaction)
+Great variety of products but inconsistent quality.
+
+Refund process is complicated and time-consuming.
+
+Customer support is friendly but ineffective.
+
+The mobile app is easy to use but prone to crashing.
+
+Seller ratings are frequently manipulated.
+
+Secure payment options provide reassurance.
+
+Shipping times are often delayed.
+
+The search function is limited and lacks precision.
+
+Promotions are misleading and often not applied at checkout.
+
+Seller communication tools are helpful but glitchy.
+
+Ideal Summary:
+The online marketplace offers a wide variety of products and secure payment options, but suffers from inconsistent quality control, unreliable seller ratings, and frequent shipping delays. Users appreciate the user-friendly mobile app but report frequent crashes. The platform’s search functionality is limited, and promotions are often misleading. Streamlining the refund process, enhancing communication tools, and improving search precision would enhance the user experience.
+
+30. News Aggregation Platform Reviews (Content Relevance & Accessibility)
+Excellent range of news sources but biased algorithms.
+
+Push notifications are excessive and often irrelevant.
+
+The user interface is clean but lacks customization options.
+
+Offline reading mode is convenient but buggy.
+
+Articles are occasionally outdated or duplicated.
+
+The mobile app frequently crashes on Android devices.
+
+No clear way to filter out unreliable sources.
+
+Excellent recommendation system when it works correctly.
+
+Ads are intrusive and disrupt reading experience.
+
+Lack of regional news coverage is a drawback.
+
+Ideal Summary:
+The news aggregation platform provides a broad range of news sources and a useful recommendation system when functioning properly. However, users express concerns over biased algorithms, excessive notifications, and limited customization options. Frequent crashes, particularly on Android devices, and intrusive ads also contribute to dissatisfaction. Improving content filtering, enhancing stability, and reducing notification spam would create a more satisfying user
