@@ -286,7 +286,7 @@ def scenario_5_augmented(include_sentiment=True, top_n=15, alpha=0.2):
         "Extracted Top Sentences (Augmented):\n" + "\n".join(top_sentences),
         "\nFinal GPT-4 Summary:\n" + final_summary
     ]
-    save_summaries(output_data, "scenario_5_augmented_summary.txt")
+    save_summaries(output_data, "scenario_5_summary.txt")
 
     elapsed = time.time() - start_time
     print(f"[DEBUG] Augmented Scenario 5 completed in {elapsed:.2f} seconds.")

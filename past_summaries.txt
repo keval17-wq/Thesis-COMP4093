@@ -1,10 +1,127 @@
+Sample Reviews with Built Summaries: 
+
+Notes: 30 Sets of 10 Reviews each 
+
+1: Restaurant Reviews (General User Feedback)
+The pasta was undercooked, but the sauce was fantastic.
+
+Friendly staff, but the service was painfully slow.
+
+Delicious desserts! I highly recommend the tiramisu.
+
+Overpriced for the quality of food. Wouldn't visit again.
+
+Nice ambiance, but the music was too loud.
+
+Portions were small but tasted good.
+
+I loved the outdoor seating area.
+
+Drinks were watered down and not worth the price.
+
+Efficient takeout service, but dine-in is chaotic.
+
+Great menu options for vegetarians.
+
+Ideal Summary:
+The restaurant offers a welcoming ambiance, particularly the outdoor seating area, which patrons enjoy. The quality of desserts and vegetarian options receives positive feedback, with special mention of the tiramisu. However, there are repeated complaints about slow service, overpriced dishes, loud music, and watered-down drinks. While takeout service is efficient, dine-in experiences are inconsistent and often chaotic. Improving service efficiency and enhancing the quality of beverages would significantly enhance customer satisfaction.
 
 
+2: Software Product Reviews (Technical Issues & Feature Requests)
+The user interface is intuitive, but the app crashes frequently.
 
-Extractive Draft Sentences:
-By far the worst most unprofessional dentist I have ever experienced her staff is too busy watching soap operas on all the TVs in each room instead of cleaning and she gave me a filling which was too deep which could have been understandable as her son had his pictures delivered from Hawaii and she had to stop 3 times to pay for them and show her whole staff all of them must be nice to have a 14 year old go to Hawaii on her moms dime and have her patience wait to see all of this happen I had to have oral surgery and have the tooth removed because she put the filling in too deep an abscessed tooth was the result I wouldn't recommend her to an ex girlfriend or someone I hate because of the three months of extreme tooth pain I had to deal with because of her lack of care and follow through even after I called and asked them for advice and follow up they simply could care less and did not even offer to reschedule an appointment other than prescribing me vicodin and antibiotics do not recommend and do not go to her license should be pulled. \n\nWorst trim of my life:\nshe cut off over an inch more than just the dead/split ends\nshe did not cut the hair how I described initially\nshe did not change the cut to how I repeated during the cut when I noticed she was cutting it straight across instead of curving it in the back, which does NOT mix well with my curly hair\nafter retelling her how I wanted it cut, she compared this tragedy to deaths of family/friends and how I should get over it\nthe beautiful long layers I had and wanted again are now choppy, medium layers\nmy left side is even choppier than the right side of my hair\nI fear straightening my hair to make this unevenness less evident\n\nI regret tipping her because I understand how the service industry works because my minimum tip of 20% for all service people is undeserved for her lack of work. \n\nOn my plate I received about 8 quarter-size chunks of lightly breaded and browned chicken, 7 hot Chinese red chili peppers (mostly inedible unless they are diced into a sauce), a handful of blanched, unsalted peanuts, a few sliced scallions, and a bed of the most bland brown rice I have ever encountered. There's a wine kiosk (suck it PA liquor laws), you can buy crazy expensive 6 packs, cheese market, bakery, salad and hot bar, butcher, florist, dry cleaners, international foods, pharmacy, and a little cosmetics/beauty/bath area. This place just plain sucks\nBad management lost them biz\nDumb arcade drama*\n\n* they have recently changed their under 21 policy so no one underage can even be in the arcade or restaurant after 10pm despite having a guardian over 30 years old Visiting from Toronto, I was really impressed.
+Needs a dark mode option for night-time use.
 
-Final Abstractive Summary:
-Summary generation failed.
+Love the customization features — very flexible.
 
-19th March 
+Loading times are unbearably slow.
+
+Excellent customer support! Resolved my issue within minutes.
+
+The app doesn’t sync properly across devices.
+
+Missing key integrations with third-party tools.
+
+Frequent updates are appreciated but sometimes buggy.
+
+Analytics dashboard is useful but could use more filtering options.
+
+Customer support experience was frustrating and unhelpful.
+
+Ideal Summary:
+The software product is well-received for its intuitive interface and flexible customization features. Users appreciate quick customer support responses when they are effective. However, stability issues such as frequent crashes, slow loading times, and poor syncing across devices are common complaints. Requests for dark mode, third-party integrations, and improved filtering options on the analytics dashboard are frequently mentioned. Although updates are frequent, they often introduce new bugs, undermining user confidence. A more stable and user-centric update approach is recommended.
+
+
+3: Call Center Reviews (Customer Support & Efficiency)
+The representative was polite but unable to resolve my issue.
+
+Long waiting times before getting connected.
+
+Automated system is confusing and inefficient.
+
+Great experience when I reached a knowledgeable agent.
+
+Transferred between departments multiple times with no resolution.
+
+Polite staff but inconsistent problem-solving abilities.
+
+Phone line frequently disconnects during calls.
+
+Availability of bilingual support is a plus.
+
+Complaint resolution process is slow and bureaucratic.
+
+Excellent service during a billing dispute.
+
+Ideal Summary:
+The call center exhibits strong interpersonal skills, with many users highlighting the politeness of staff and the availability of bilingual support. However, several critical issues persist, including long waiting times, repeated transfers, and inconsistent problem resolution. While knowledgeable agents can provide excellent service, the overall experience is marred by confusing automated systems and unreliable phone connections. Improving call routing and resolution efficiency should be prioritized.
+
+
+4: Mobile App Reviews (User Experience & Bugs)
+The app’s design is clean, but it crashes often on Android devices.
+
+Push notifications are inconsistent, missing important alerts.
+
+Customer support is helpful, but response times are slow.
+
+Lacks a tutorial or onboarding process for new users.
+
+Dark mode is a welcome addition, but it causes visual glitches.
+
+Frequent updates improve features but introduce new bugs.
+
+The app is fast and responsive when it works properly.
+
+No offline mode, which limits usability during travel.
+
+The search function is unreliable, often missing relevant results.
+
+Subscription fees are too high for the limited functionality provided.
+
+Ideal Summary:
+The mobile app is appreciated for its clean design and responsive performance during optimal conditions. Users particularly value the introduction of a dark mode. However, significant issues remain, including frequent crashes on Android devices, inconsistent push notifications, lack of offline mode, and unreliable search functionality. Although frequent updates bring new features, they also introduce disruptive bugs. A streamlined onboarding process and more robust search capabilities are recommended to improve overall user satisfaction.
+
+
+5: Hotel Reviews (Hospitality & Service)
+The room was spacious but not clean.
+
+Fantastic location, right near all the major attractions.
+
+The breakfast was overpriced and average.
+
+Staff were helpful but seemed overwhelmed.
+
+Great amenities, especially the pool and gym.
+
+Room service was slow and unresponsive.
+
+Check-in process was smooth and efficient.
+
+Poor Wi-Fi connection in the rooms.
+
+Friendly and welcoming staff made the stay pleasant.
+
+The air conditioning was noisy and disrupted sleep.
+
+Ideal Summary:
+The hotel is praised for its spacious rooms, friendly staff, and convenient location near major attractions. Amenities like the pool and gym are well-received. However, cleanliness issues, noisy air conditioning, and poor Wi-Fi connectivity are recurring complaints. Room service is described as slow and often unresponsive, though the check-in process is generally efficient. Improving staff availability and resolving maintenance issues would significantly enhance guest satisfaction.

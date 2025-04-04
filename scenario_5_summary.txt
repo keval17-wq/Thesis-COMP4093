@@ -1,9 +1,7 @@
 
+The feedback highlights several common themes. While customers appreciate the polite staff and the availability of bilingual support, they raise critical concerns regarding their experiences with the company's customer service. The inconsistency in problem-solving skills is a notable issue, with some agents being highly knowledgeable and others failing to resolve complaints adequately. 
 
+The difficulty in reaching representatives adds to the frustration, as evidenced by complaints about long waiting times and frequent phone line disconnections. Even when contact is established, the unnecessary transferring between departments further hampers the resolution process. The slow and bureaucratic complaint resolution procedure compounds these issues.
 
-Final GPT Summary:
-Users have expressed appreciation for the addition of the dark mode feature and the clean, modern user interface. The onboarding tutorial is deemed helpful for new users, and the customer support team is praised for assisting with billing issues. 
+Additionally, customers find the automated system to be inefficient and confusing, though when things go correctly, for example in a billing dispute, they acknowledge the level of service to be excellent.
 
-However, there are significant issues with the application's performance, including frequent crashes while trying to upload images, slow loading speed on mobile devices, and malfunctioning notifications following the latest update. Other areas of frustration are the difficulty in exporting data and the abundance of ads in the free version. 
-
-Users have also requested for an integration with Google Calendar in future updates.
