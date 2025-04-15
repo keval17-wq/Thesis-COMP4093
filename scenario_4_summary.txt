@@ -1,3 +1,6 @@
+Extractive Draft Sentences:
+Limited offline access makes learning difficult during travel. Great range of courses but the interface feels outdated. Video quality is inconsistent, especially during live sessions. Course certificates are valuable and recognized by employers. Content is comprehensive but lacks engagement for beginners.
 
-The user interface of the application is neat and tidy, however, customization options are rather limited. It unfortunately suffers from frequent crashes, especially on Android devices. While the app offers an impressive variety of news sources, there seem to be issues with biased algorithms. Additionally, its lack of coverage for regional news is seen as a significant drawback. Users also report a disruptive experience due to the intrusive ads that interrupt their reading.
+Final Abstractive Summary:
+The learning platform offers a wide variety of valuable, employer-recognized courses whose content is comprehensive. However, the platform has areas for improvement, including updating the outdated interface and enhancing the engagement level for beginners. The video quality, particularly during live sessions, is inconsistent, and limited offline access poses challenges for learning during travel.
 

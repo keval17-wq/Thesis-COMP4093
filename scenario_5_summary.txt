@@ -1,3 +1,16 @@
+Extracted Top Sentences (Augmented):
+Limited offline access makes learning difficult during travel
+Great range of courses but the interface feels outdated
+Video quality is inconsistent, especially during live sessions
+Course certificates are valuable and recognized by employers
+The mobile app is clunky and crashes frequently
+Subscription model is expensive for casual learners
+Content is comprehensive but lacks engagement for beginners
+Excellent customer support through live chat
+Instructors are knowledgeable but often respond late to queries
+No effective system for peer interaction or networking
 
-The main points from user feedback are centered around concerns of app functionality, user interface, and content pertinence. Users pointed out that the app regularly crashes on Android devices, showing potential compatibility issues, and it is also criticized for lack of customization options. The recommendation and news sourcing algorithms raise concerns due to perceived bias and inability to filter unreliable sources. Another problem seen from feedback is the lack of regional news coverage. Ads are viewed as intrusive, disrupting the reading experience. The offline reading mode, despite being found convenient, is reported to be buggy. The number of push notifications is seen as excessive and often irrelevant. Furthermore, users have encountered outdated or duplicated articles. Despite these issues, accolades were given for the range of news sources and the recommendation system, when it's working correctly. Overall, these feedback remarks suggest users appreciate the news range and recommendation system but find issues with app performance, content quality, and user experience.
+
+Final GPT-4 Summary:
+Users appreciate the comprehensive content, valuable course certificates, and excellent customer service through live chat provided by the platform. The range of courses available is also positively viewed. However, they experience difficulties due to limited offline access, particularly during travel, and find the subscription model costly, particularly for casual learning. The interface is considered outdated and the mobile app unstable, frequently crashing. Video quality is inconsistent, especially for live sessions, and the course content often lacks engagement for beginners. Instructors, while knowledgeable, sometimes respond late to queries and there's a notable absence of an effective system for peer interaction or networking.
 
