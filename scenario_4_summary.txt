@@ -1,6 +1,3 @@
-Extractive Draft Sentences:
-Limited offline access makes learning difficult during travel. Great range of courses but the interface feels outdated. Video quality is inconsistent, especially during live sessions. Course certificates are valuable and recognized by employers. Content is comprehensive but lacks engagement for beginners.
 
-Final Abstractive Summary:
-The learning platform offers a wide variety of valuable, employer-recognized courses whose content is comprehensive. However, the platform has areas for improvement, including updating the outdated interface and enhancing the engagement level for beginners. The video quality, particularly during live sessions, is inconsistent, and limited offline access poses challenges for learning during travel.
+The staff at the restaurant is friendly but the service is notably slow, particularly for dine-in customers which results in a chaotic experience. Although their takeout service shows efficiency, the quality of their drinks is substandard with accusations of them being watered down and overpriced. On a positive note, the menu offers a commendable range of options for vegetarians and the outdoor seating area provides a delightful ambiance.
 
