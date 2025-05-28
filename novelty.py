@@ -214,7 +214,7 @@ def scenario_4():
 # Scenario 5 (with debugging, optional sentiment)
 # -------------------------------
 def scenario_5_augmented(include_sentiment: bool = True,
-                         top_n: int = 15,
+                         top_n: int = 20,
                          alpha: float = 0.2):
     """
     Scenario 5 – TF‑IDF‑based extraction (+ optional sentiment weighting)  
@@ -282,6 +282,20 @@ def scenario_5_augmented(include_sentiment: bool = True,
         "Sentences:\n" +
         "\n".join(f"- {s}" for s in top_sentences)
     )
+
+    # prompt = (
+    #     "You are an expert summariser of product feedback. Your task is to write "
+    #     "ONE single paragraph that:\n"
+    #     "• Is strictly shorter than the input (in characters),\n"
+    #     "• Is neutral in tone and fact-only (no interpretation),\n"
+    #     "• Mentions each unique issue, defect, or feature *exactly once*,\n"
+    #     "• Groups similar pros/cons where appropriate,\n"
+    #     "• Avoids contradictions or vague generalisations.\n"
+    #     "Be extra cautious with rare but serious complaints, even if mentioned only once.\n\n"
+    #     "Here are the extracted feedback sentences:\n\n" +
+    #     "\n".join(f"- {s}" for s in top_sentences)
+    # )
+
 
     # ------------------------------------------------------------------ #
     # 6 · First GPT‑4 pass

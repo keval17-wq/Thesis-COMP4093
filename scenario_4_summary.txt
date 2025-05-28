@@ -1,3 +1,6 @@
+Extractive Draft Sentences:
+The mobile app is easy to use but lacks advanced filtering options. Great selection of electronics but limited availability for specific models. The search function is inaccurate, often missing relevant items. Delivery times are unpredictable, especially for international orders. Prices are competitive but vary significantly between sellers.
 
-The staff at the restaurant is friendly but the service is notably slow, particularly for dine-in customers which results in a chaotic experience. Although their takeout service shows efficiency, the quality of their drinks is substandard with accusations of them being watered down and overpriced. On a positive note, the menu offers a commendable range of options for vegetarians and the outdoor seating area provides a delightful ambiance.
+Final Abstractive Summary:
+The mobile app for the electronic shop is user-friendly, however, it suffers from a lack of sophisticated filtering options and an inaccurate search function that often overlooks relevant products. The selection of electronics is commendable, although there's a noted scarcity in terms of specific models. A significant issue raised is the unpredictability of delivery times, more so for international orders. Prices are generally competitive, albeit showing notable fluctuations across different sellers.
 

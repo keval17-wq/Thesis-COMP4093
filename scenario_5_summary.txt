@@ -1,3 +1,16 @@
+Extracted Top Sentences (Scenario 5):
+The mobile app is easy to use but lacks advanced filtering options
+Great selection of electronics but limited availability for specific models
+The search function is inaccurate, often missing relevant items
+Delivery times are unpredictable, especially for international orders
+Refund process is tedious and time-consuming
+Payment options are convenient but prone to errors
+User reviews are helpful but frequently outdated
+Prices are competitive but vary significantly between sellers
+Customer support is helpful but difficult to reach
+Discounts are appealing but often misleading
 
-Despite friendly staff, the service was slow, the dining chaotic, and takeout efficient. Drinks were diluted and costly. Vegetarian options and tiramisu were praised. The outdoor seating was lovely, but marred by loud music. Undercooked pasta had tasty sauce. Customers found it overpriced and wouldn't return.
+
+Final Factual Summary:
+The app is user-friendly but lacks advanced filters. Its product range is notable but some electronics are rarely available. The search function often misses relevant items. Delivery times are unpredictable, especially for international orders, and refunds are slow. Multiple payment options are available but can be faulty. User reviews are useful but frequently dated. Prices vary significantly between sellers but are competitive. Customer support is supportive but difficult to reach. The discounts, while enticing, can be deceptive.
 
