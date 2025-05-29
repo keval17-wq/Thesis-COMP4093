@@ -1,16 +1,26 @@
 Extracted Top Sentences (Scenario 5):
-The mobile app is easy to use but lacks advanced filtering options
-Great selection of electronics but limited availability for specific models
-The search function is inaccurate, often missing relevant items
-Delivery times are unpredictable, especially for international orders
-Refund process is tedious and time-consuming
-Payment options are convenient but prone to errors
-User reviews are helpful but frequently outdated
-Prices are competitive but vary significantly between sellers
-Customer support is helpful but difficult to reach
-Discounts are appealing but often misleading
+The phone is decent overall—screen looks good and performance is okay, but the battery life is underwhelming and it heats up quickly
+The phone froze multiple times, the camera produced blurry photos, and customer support was unhelpful
+Battery life is solid, and it handles everyday tasks smoothly, though it can get a bit noisy under heavy usage
+Great entry-level camera with impressive image quality and easy-to-use controls
+This laptop exceeds expectations: super lightweight, fast SSD, and excellent build quality
+Noise cancellation helps in noisy environments, but battery drains faster than expected
+The battery lasts all day, the camera quality is stunning, and the performance is lightning fast
+Very comfortable for long listening sessions and noise cancellation works great
+Keyboard feels cheap, and the display resolution is lower than advertised
+Sound quality is top-notch with deep bass and clear highs
+Photos are okay in good light but struggle in low-light conditions
+Crisp images, fast autofocus, and a robust design
+Build quality feels flimsy, and the autofocus is slow
+Audio is tinny and uncomfortable to wear for more than an hour
+Lacks some advanced features but solid for beginners
+Comfortable fit but the sound is just average
+Performance is average at best, especially under load
+Bluetooth connection drops frequently
+Works perfectly for work and gaming
+Perfect for both amateurs and pros
 
 
 Final Factual Summary:
-The app is user-friendly but lacks advanced filters. Its product range is notable but some electronics are rarely available. The search function often misses relevant items. Delivery times are unpredictable, especially for international orders, and refunds are slow. Multiple payment options are available but can be faulty. User reviews are useful but frequently dated. Prices vary significantly between sellers but are competitive. Customer support is supportive but difficult to reach. The discounts, while enticing, can be deceptive.
+The phone delivers decent screen quality, smooth performance, and solid battery life, but tends to heat up quickly, suffer from freezing issues, blur in photos, and disappoint with below-par customer support. The camera offers impressive image quality, easy controls and fast autofocus, but the photos can be poor under low-light and the build quality is somewhat flimsy. The laptop's lightweight design, fast SSD, and excellent build quality exceeds expectations, although the keyboard feels cheap and the screen resolution is not as advertised. The noise-cancelling headphones provide top-notch sound quality, with deep bass and clear highs, making them ideal for noisy environments, yet they tend to drain battery quicker than expected and provide average sound quality and comfort during long usage sessions. The Bluetooth often drops connection and the audio can be tinny. Despite lacking some advanced features, it is great for both work and gaming and caters to beginners, amateurs, and pros alike.
 
