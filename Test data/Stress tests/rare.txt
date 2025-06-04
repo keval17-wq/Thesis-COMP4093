@@ -1,0 +1,159 @@
+Set 1
+The earbuds sound great overall.
+
+One side occasionally emits a mild shock.
+
+Good battery life, lasts almost a full day.
+
+Pairing was quick and seamless.
+
+Fits comfortably during workouts.
+
+The charging case lid feels flimsy.
+
+Accidentally triggered a factory reset mid-call.
+
+Volume controls are responsive.
+
+Build feels premium.
+
+Bluetooth disconnects randomly once a week.
+
+
+Output: 
+
+sc 
+The earbuds provide quality sound and long battery life. They pair easily, have responsive controls, and a comfortable, durable build. Drawbacks include weekly Bluetooth disconnections, occasional shocks, a weak charging case lid, and a sensitive reset feature.
+
+
+vanilla 
+The earbuds deliver great sound quality and comfortable fit during workouts, with a quick and seamless pairing process. The battery life lasts almost a full day, and the volume controls are responsive. However, one side occasionally emits a mild shock, and the charging case lid feels flimsy. There was an accidental factory reset mid-call, and Bluetooth disconnects randomly once a week. Despite these issues, the build quality feels premium overall.
+
+
+Set 2
+Excellent video quality on the projector.
+
+The unit sparked once while unplugging.
+
+Remote control is intuitive.
+
+Fan is noisy in quiet rooms.
+
+Doesn’t support Netflix out of the box.
+
+Customer support is responsive.
+
+Image sharpness exceeded expectations.
+
+Setup took less than 5 minutes.
+
+Lens cap doesn't stay on.
+
+Slight buzzing sound occasionally.
+
+
+Output: 
+
+sc 
+The projector provides superior video quality and sharp images, with a user-friendly remote and under 5-minute setup. It has responsive customer support. Drawbacks include occasional buzzing, loud fan in silent rooms, loose lens cap, and it sparked once during unplugging. It doesn't support Netflix initially.
+
+
+vanilla 
+The projector delivers excellent image quality with sharpness that exceeded expectations, and setup is quick, taking less than five minutes. The remote control is intuitive, and customer support is responsive. However, the fan can be noisy in quiet rooms, and there is occasional buzzing. The lens cap does not stay on, and the unit sparked once while unplugging. It also doesn’t support Netflix out of the box.
+
+
+Set 3
+Works well for basic document editing.
+
+Laptop suddenly restarted and BIOS reset.
+
+Keyboard backlight is a nice touch.
+
+Battery drains faster than expected.
+
+Quiet during operation.
+
+Gets hot during video calls.
+
+Nice anti-glare screen finish.
+
+One USB port completely dead on arrival.
+
+Good price-to-performance ratio.
+
+Trackpad accuracy could be better.
+
+
+Output: 
+
+sc 
+The laptop is cost-effective, suitable for document editing, and runs quietly with an anti-glare screen and backlit keyboard. However, it overheats during video calls, has a less accurate trackpad, quick battery drain, unexpected BIOS reset, and a defective USB port.
+
+
+vanilla 
+The laptop offers a good price-to-performance ratio with a nice anti-glare screen finish and a quiet operation. The keyboard backlight is a helpful feature, but the battery drains faster than expected, and it tends to get hot during video calls. One USB port was dead on arrival, and the trackpad accuracy could be improved. Additionally, the laptop restarted unexpectedly, and the BIOS reset itself.
+
+
+
+Set 4
+Cooks food evenly and quickly.
+
+One user reported it catching fire on broil mode.
+
+Compact and fits well on a small counter.
+
+Buttons are responsive and easy to use.
+
+Timer beeps are too quiet.
+
+Stainless steel finish looks good.
+
+Exterior heats up more than expected.
+
+Included manual is hard to follow.
+
+Glass door fogs up frequently.
+
+Shipping was fast.
+
+
+Output: 
+
+sc 
+This compact appliance with a stainless steel finish fits on small counters and cooks food quickly and evenly. Its buttons are responsive but the exterior heats up, the glass door fogs, and the manual is unclear. The timer's beep is quiet and it may catch fire on broil mode. Shipping was quick.
+
+
+
+vanilla 
+The appliance cooks food evenly and quickly, fits well on a small counter, and has responsive, easy-to-use buttons. Its stainless steel finish looks good, and shipping was fast. However, users have reported that it can catch fire on broil mode, the exterior heats up more than expected, and the glass door frequently fogs up. Additionally, the timer beeps are too quiet, and the included manual is hard to follow.
+
+Set 5
+App interface is clean and intuitive.
+
+Lost all saved settings after last update.
+
+Heart rate readings seem accurate.
+
+Sleep tracking is hit-or-miss.
+
+Screen is easy to read even in sunlight.
+
+Strap is comfortable but flimsy.
+
+Charges quickly via magnetic base.
+
+GPS signal takes time to lock.
+
+Weather data sometimes lags.
+
+Support forums are active.
+
+
+Output: 
+
+sc 
+The fitness tracker offers precise heart rate measurements, a sunlight-readable screen, and a user-friendly app with an active forum. It has inconsistent sleep tracking, slow GPS locking, and delayed weather data. The comfortable strap is weak. Users lost settings after the last update but it charges fast with a magnetic base.
+
+
+vanilla 
+The app interface is clean and easy to navigate, though all saved settings were lost after the last update. Heart rate readings are generally accurate, but sleep tracking can be inconsistent. The screen is readable even in sunlight, and the strap is comfortable, though somewhat flimsy. Charging is quick via the magnetic base, while GPS signal acquisition can take a while. Weather data sometimes lags, but support forums are active and helpful.

@@ -353,7 +353,7 @@ if __name__ == "__main__":
     print("2 - Embed + K-Means + Summarize clusters (GPT-4)")
     print("3 - TF-IDF + K-Means + Summarize clusters (GPT-4)")
     print("4 - Extractive (TF–IDF) + Abstractive (GPT-4) hybrid summary (entire dataset)")
-    print("5 - TF–IDF extractive + (Optional) Sentiment + GPT-4 final summary")
+    print("5 - TF–IDF extractive + Sentiment + GPT-4 final summary")
     choice = input("Enter 1, 2, 3, 4, or 5: ")
 
     if choice == "1":

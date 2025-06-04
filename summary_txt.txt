@@ -1,14 +1,14 @@
 Extracted Top Sentences (Scenario 5 v2):
-Sound quality is top-notch with deep bass and clear highs
-The phone is decent overall—screen looks good and performance is okay, but the battery life is underwhelming and it heats up quickly
-This laptop exceeds expectations: super lightweight, fast SSD, and excellent build quality
-Great entry-level camera with impressive image quality and easy-to-use controls
-Battery life is solid, and it handles everyday tasks smoothly, though it can get a bit noisy under heavy usage
-Works perfectly for work and gaming
-Good value for money
-The phone froze multiple times, the camera produced blurry photos, and customer support was unhelpful
-Terrible experience
-Bluetooth connection drops frequently
+Heart rate readings seem accurate
+Screen is easy to read even in sunlight
+Sleep tracking is hit-or-miss
+App interface is clean and intuitive
+GPS signal takes time to lock
+Weather data sometimes lags
+Strap is comfortable but flimsy
+Support forums are active
+Lost all saved settings after last update
+Charges quickly via magnetic base
 
 Final Factual Summary:
-The device has excellent sound quality, suitable for work and gaming, but its Bluetooth connection is unstable and it can get noisy. The phone has a good screen and performance but poor battery life, overheats, freezes often, has a low-quality camera, and poor customer support. The laptop is lightweight with a fast SSD and excellent build, while the entry-level camera provides good image quality and value for money.
+The fitness tracker offers precise heart rate measurements, a sunlight-readable screen, and a user-friendly app with an active forum. It has inconsistent sleep tracking, slow GPS locking, and delayed weather data. The comfortable strap is weak. Users lost settings after the last update but it charges fast with a magnetic base.

@@ -1,0 +1,165 @@
+Set 1
+Battery easily lasts 8 hours — except when streaming.
+
+Very sharp display, but colors are muted.
+
+Fast boot time, yet lags after login.
+
+Great speaker quality unless volume is maxed.
+
+Build quality is solid though it cracked on light impact.
+
+Responsive UI that freezes during updates.
+
+Easy pairing, disconnects with Android phones.
+
+Good low-light camera, noisy under flash.
+
+Charger works well, heats up on long use.
+
+App is user-friendly but crashes often.
+
+Output: 
+
+sc 
+The device is solid but cracks under light impact, has a sharp but muted display, and excellent speakers that distort at full volume. Its camera works well in low light but is noisy with flash. The efficient charger heats up with long use, and the battery lasts 8 hours, less during streaming. The included app is easy to use but crashes frequently, and while pairing is simple, it often disconnects with Android. The responsive interface…
+
+
+vanilla 
+The battery lasts up to 8 hours, but streaming drains it faster. The display is sharp, though the colors appear muted. The device boots quickly but lags after login. The speakers offer great quality, though they distort at maximum volume. The build quality is solid, though it cracked with light impact. The UI is responsive, but freezes during updates. Pairing is easy, but the device disconnects from Android phones. The low-light camera performs well, though it becomes noisy under flash. The charger works well but heats up during extended use. The app is user-friendly, but it crashes frequently.
+
+
+Set 2
+Comfortable mouse, but wrist hurts after long use.
+
+Clicks are silent but feel cheap.
+
+Smooth tracking on all surfaces except glass.
+
+Battery lasts weeks, drains overnight if left on.
+
+Setup is fast, pairing sometimes fails.
+
+Lightweight yet feels unbalanced.
+
+Scrolling is fluid, stutters on Chrome.
+
+Durable build, coating chipped after a month.
+
+Looks great, performance is underwhelming.
+
+Plug and play, driver issues on Windows.
+
+
+Output: 
+
+sc 
+The product looks great and is durable, but performs poorly and the coating chips quickly. It provides smooth scrolling and tracking, except on glass, but is unbalanced and may cause wrist pain. Setup is quick with plug and play, but it can have pairing and Windows driver issues. The battery lasts weeks but drains if left on overnight. Clicks are quiet but feel cheap.
+
+
+vanilla 
+The mouse is comfortable for short use, though wrist discomfort can occur with extended periods. It features silent clicks, but they feel cheap, and while tracking is smooth on most surfaces, it struggles on glass. The battery lasts for weeks but drains overnight if left on. Setup is quick, though pairing sometimes fails. Despite being lightweight, the mouse feels unbalanced, and while scrolling is fluid, it stutters in Chrome. The build is durable, but the coating started chipping after a month. It has a sleek design, though its performance is generally underwhelming, and while it’s plug-and-play, driver issues on Windows can arise.
+
+
+
+
+
+
+Set 3
+Great reception most of the time.
+
+Loses signal in elevators and basements.
+
+Loud enough for calls, muffled for podcasts.
+
+Fast connection, drops during rain.
+
+Sleek form factor, sharp corners irritate skin.
+
+Battery holds charge, drains with hotspot use.
+
+Water-resistant but fogs up inside case.
+
+Good integration with iOS, Android support lags.
+
+Clean UI, confusing settings menu.
+
+Fast charging unless device is below 20%.
+
+
+Output: 
+
+sc 
+The device provides a quick connection that may drop in rain and has better integration with iOS than Android. It delivers clear call audio but muffles podcast sound. It generally has excellent reception, except in elevators and basements. The battery charges fast unless below 20% and drains quicker when used as a hotspot. It's water-resistant but can fog up inside its case. The design is sleek but the…
+
+
+vanilla 
+The device offers great reception most of the time, but loses signal in elevators and basements. The connection is fast, though it may drop during rain, and the battery holds charge well, although it drains quickly when using the hotspot. It has a sleek form factor, but its sharp corners can irritate the skin. The water-resistant case fogs up inside, and while the device integrates smoothly with iOS, its Android support is slower. The clean UI is easy to use, but the settings menu can be confusing. Calls are loud enough, but podcasts sound muffled, and charging is fast unless the device is under 20% battery.
+
+
+Set 4
+Lightweight laptop, heavy charger.
+
+Quick start-up, slow app launches.
+
+Vibrant screen indoors, washed outdoors.
+
+Audio is clear, max volume distorts.
+
+Backlit keyboard, some keys don’t register.
+
+USB-C works well, HDMI is flaky.
+
+Smooth touchpad, occasional ghost clicks.
+
+Fans are silent but activate suddenly.
+
+Decent webcam, grainy in low light.
+
+Solid battery unless running Zoom.
+
+
+
+Output: 
+
+sc 
+This laptop has a grainy webcam in low light, a touchpad with ghost clicks, a functional USB-C port, and an unreliable HDMI. It offers robust battery life, except when using Zoom, a vibrant screen that looks washed out outside, and clear audio that distorts at full volume. It includes a heavy charger, silent fans that can start abruptly, slow app launches…
+
+
+vanilla 
+The laptop is lightweight with a heavy charger and features a backlit keyboard, although some keys do not register properly. It has a vibrant screen indoors but appears washed out outdoors. Startup is quick, but app launches tend to be slow. The audio is clear at lower volumes but distorts at maximum volume. The USB-C port functions well, whereas the HDMI port is unreliable. The touchpad operates smoothly but occasionally registers ghost clicks. The fans are usually silent but sometimes activate suddenly. The webcam delivers decent quality but becomes grainy in low light conditions. Battery life is solid except when running Zoom, which drains it faster.
+
+
+Set 5
+Fast delivery, packaging was damaged.
+
+Strong suction, noisy at full power.
+
+Smart scheduling, often forgets commands.
+
+Easy to clean, hard to disassemble.
+
+Accurate mapping, sometimes misses corners.
+
+Compatible with Alexa, voice commands lag.
+
+Picks up pet hair, clogs with large debris.
+
+Compact size, gets stuck under low furniture.
+
+Quiet on tile, rattles on carpet.
+
+Good battery life, takes long to recharge.
+
+Let me know when you’re ready for the next two (e.g. 🧩 Ambiguous Language and 🌀 Redundancy Noise), and I’ll include tailored metrics with them too.
+
+
+
+Output: 
+
+sc 
+The product arrived fast with damaged packaging. It has powerful, loud suction and long battery life, but recharges slowly. It's easy to clean, hard to disassemble, and has smart scheduling with occasional command lapses. It works with Alexa, despite occasional voice command lag, and offers accurate mapping, but may miss corners.
+
+
+vanilla 
+The delivery was fast, but the packaging was damaged. The device has strong suction, though it's noisy at full power. While it has smart scheduling, it often forgets commands. It is easy to clean, but difficult to disassemble. The mapping is accurate, though it sometimes misses corners. It's compatible with Alexa, but voice commands experience some lag. It picks up pet hair well, though it clogs with larger debris. The compact size allows it to fit in tight spaces but can get stuck under low furniture. It operates quietly on tile but rattles on carpet. The battery life is good, though it takes a long time to recharge.
