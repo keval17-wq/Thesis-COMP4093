@@ -1,0 +1,151 @@
+Absolutely love how the screen flickers randomly — it’s like a party.
+
+Pairs instantly. Except when it doesn’t, which is half the time.
+
+Looks sturdy, though it cracked when dropped on carpet.
+
+The app is fast, unless you need to actually use it.
+
+Sound is crystal clear — just not on calls.
+
+Comfy grip, but triggered a weird error mid-scroll.
+
+Keyboard lights up beautifully, stopped lighting up two days later.
+
+Smooth setup, if you skip the 4 failed attempts.
+
+Great sleep tracking… except it thinks I sleep during meetings.
+
+Charges fast — and then overheats.
+
+Output:
+
+sc
+The user liked the device's quick pairing, fast charging, comfortable grip, and easy setup. However, they experienced screen flickering, app slowdown, keyboard light failure, incorrect sleep tracking, and poor call sound quality. The device, though seemingly durable, cracked when dropped and overheats post-charge, also causing scrolling errors.
+
+
+vanilla 
+The device pairs quickly, has a smooth setup after initial failures, charges fast, looks sturdy, provides crystal clear sound, has a comfortable grip, tracks sleep, and features a beautifully lit keyboard. However, pairing fails about half the time, setup may take several attempts, it overheats while charging, the screen flickers unpredictably, it cracked from a carpet drop, the app slows down during use, sound quality drops during calls, a grip error occurred while scrolling, the keyboard lighting stopped working after two days, and the sleep tracking misidentifies meeting times as sleep.
+
+
+
+🧪 Mixed Batch 2
+Waterproof? It died after one splash. Excellent comedy.
+
+Super intuitive UI! Until you try to change a setting.
+
+Battery lasts 10 hours — unless you open any app.
+
+Buttons are super responsive, even when you don’t press them.
+
+Sleek design hides the fact that the screen ghosts like crazy.
+
+Fast delivery. Shame it didn’t turn on.
+
+Audio sounds great, but fades in and out randomly.
+
+Took 3 tries to pair, now disconnects when touched.
+
+Impressive build… though the hinge popped off.
+
+The weather widget is so bad I check outside instead.
+
+Output: 
+sc 
+The product has a sleek design, responsive buttons, intuitive UI, and is waterproof, but has issues like a faulty hinge, ghosting screen, pairing problems, poor battery life with apps, and an unreliable weather widget. Despite this, it offers great comedy and fast delivery.
+
+
+vanilla 
+The product features a sleek design, impressive build, fast delivery, excellent audio quality, responsive buttons, intuitive UI, and a 10-hour battery under limited use. However, it experienced issues such as screen ghosting, random audio fading, a hinge that detached, disconnection problems after pairing, UI difficulties when changing settings, a battery that drains quickly with app use, and buttons that respond without being pressed. It also failed after minimal water exposure, did not power on initially, and includes a weather widget that users found unreliable.
+
+
+🧪 Mixed Batch 3
+Love the huge screen, wish it didn’t freeze during calls.
+
+Charges fast, but gives you about 30 minutes of use.
+
+“Smart assistant” couldn’t even set a timer without crashing.
+
+Shiny exterior, inside smells like burnt plastic.
+
+Perfect weight — unless you hold it more than 10 minutes.
+
+Instant notifications, but only for the messages I deleted.
+
+Setup tutorial walked me through a freeze.
+
+The sound is immersive… until it loops.
+
+Feels premium, functions like a toaster.
+
+Connects to all devices — except the one I bought it for.
+
+Output:
+
+sc 
+The device has a large, high-quality screen that freezes during calls and setup. It has immersive sound that loops and is comfortable to hold briefly due to its weight. It charges fast but has a 30-minute battery life. The smart assistant feature crashes often, even for simple tasks. It only notifies for deleted messages. It connects to many devices, but not the intended one. Lastly, it has a shiny exterior but a burnt plastic smell inside.
+
+
+vanilla 
+The device has a large screen, charges quickly, feels premium, has a shiny exterior, immersive sound, instant notifications, and connects to multiple devices. However, it freezes during calls, offers only about 30 minutes of use per charge, crashes when using the smart assistant, smells like burnt plastic inside, becomes uncomfortable to hold after 10 minutes, notifies only for deleted messages, froze during setup, has sound that loops, functions poorly, and fails to connect to its intended device.
+
+
+🧪 Mixed Batch 4
+Great webcam quality. Too bad it randomly shuts off mid-call.
+
+Light, portable, and forgets every saved WiFi network.
+
+The fan is whisper quiet until it roars.
+
+Vibrates constantly. Didn’t know I ordered a massager.
+
+App auto-logged me out during a payment.
+
+Loud, vibrant alarm — that skips Tuesdays.
+
+Fits perfectly, causes wrist strain after 30 minutes.
+
+Bright flashlight, flickers like a horror movie scene.
+
+Easy voice command — misheard “off” as “buy.”
+
+GPS is accurate… when you’re not moving.
+
+Output: 
+
+sc 
+The device has a loud alarm skipping Tuesdays and a vibrating feature likened to a massager. It has a high-quality webcam with random shutdowns and voice command issues. Its GPS is accurate when still, but not in motion. The lightweight, portable device fits well but may strain wrists after 30 minutes. It often forgets saved WiFi networks and its app auto-logs out during payments.
+
+
+vanilla 
+The device has a high-quality webcam, is lightweight and portable, has a quiet fan under normal conditions, includes a bright flashlight, and supports easy voice commands and accurate GPS. However, it randomly shuts off during calls, fails to remember saved WiFi networks, has a fan that becomes loud, vibrates frequently, auto-logs out during payments, skips alarms on Tuesdays, causes wrist strain after brief use, has a flickering flashlight, misinterprets voice commands, and its GPS is unreliable while in motion.
+
+🧪 Mixed Batch 5
+Premium look. Touchscreen stopped responding day 2.
+
+Quick support replies. All told me to reboot.
+
+Loved the interface — until it turned Mandarin randomly.
+
+Helps me sleep — mostly out of frustration.
+
+Snaps perfect photos — if you enjoy mystery blurs.
+
+Holds charge well… until 20%, then dies in minutes.
+
+Speakers are bold — they hum when nothing plays.
+
+Firmware update bricked it. Thanks!
+
+Works flawlessly in airplane mode. Just not otherwise.
+
+The cable is braided, strong… and doesn’t fit.
+
+output:
+
+sc 
+The product functions well in airplane mode, offers fast support, and takes photos with occasional blurs. The interface, which randomly changes to Mandarin, was initially pleasing. The device maintains charge until 20%, then drains fast. The bold speakers hum when idle. It can help induce sleep, mainly due to frustration. The sturdy, braided cable doesn't fit.
+
+
+vanilla 
+The device has a premium look, a strong braided cable, and bold speakers. It holds a charge well until it drops to 20%, snaps high-quality photos despite occasional blurring, and works reliably in airplane mode. However, the touchscreen became unresponsive on the second day, the interface switched to Mandarin unexpectedly, and the firmware update caused it to stop working. Support responses were quick but limited to reboot suggestions. The device emits a hum from the speakers when idle, the charging cable does not fit properly, and it powers down rapidly at low battery.

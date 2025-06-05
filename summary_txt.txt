@@ -1,14 +1,14 @@
 Extracted Top Sentences (Scenario 5 v2):
-Heart rate readings seem accurate
-Screen is easy to read even in sunlight
-Sleep tracking is hit-or-miss
-App interface is clean and intuitive
-GPS signal takes time to lock
-Weather data sometimes lags
-Strap is comfortable but flimsy
-Support forums are active
-Lost all saved settings after last update
-Charges quickly via magnetic base
+Works flawlessly in airplane mode
+Thanks
+Quick support replies
+Snaps perfect photos — if you enjoy mystery blurs
+Loved the interface — until it turned Mandarin randomly
+Holds charge well… until 20%, then dies in minutes
+Speakers are bold — they hum when nothing plays
+Helps me sleep — mostly out of frustration
+Just not otherwise
+The cable is braided, strong… and doesn’t fit
 
 Final Factual Summary:
-The fitness tracker offers precise heart rate measurements, a sunlight-readable screen, and a user-friendly app with an active forum. It has inconsistent sleep tracking, slow GPS locking, and delayed weather data. The comfortable strap is weak. Users lost settings after the last update but it charges fast with a magnetic base.
+The product functions well in airplane mode, offers fast support, and takes photos with occasional blurs. The interface, which randomly changes to Mandarin, was initially pleasing. The device maintains charge until 20%, then drains fast. The bold speakers hum when idle. It can help induce sleep, mainly due to frustration. The sturdy, braided cable doesn't fit.
