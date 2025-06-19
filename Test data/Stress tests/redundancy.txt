@@ -1,0 +1,149 @@
+Set 1
+Battery dies fast.
+
+It drains quickly.
+
+The charge won’t last long.
+
+It doesn’t hold power.
+
+Power fades rapidly.
+
+It runs out of juice.
+
+The battery life is poor.
+
+It barely makes an hour.
+
+The charge dwindles fast.
+
+It exhausts its battery almost immediately.
+
+output: 
+
+sc 
+The device has a poor battery life, draining quickly and often not lasting an hour, as reported by users.
+
+vanilla 
+The device experiences rapid battery drain, with users reporting that it doesn't hold a charge well, the power fades quickly, and it often runs out of juice within an hour.
+
+
+Set 2
+Sound is tinny.
+
+The audio lacks depth.
+
+It sounds hollow.
+
+The music is muted.
+
+It plays with flat tones.
+
+The speaker lacks bass.
+
+It produces a thin sound.
+
+The acoustics are weak.
+
+It has no richness.
+
+The volume is lifeless.
+
+output: 
+
+sc 
+The speaker emits a flat, muted sound with poor acoustics and no bass, resulting in a tinny, hollow audio. The volume is lifeless and the sound lacks depth and richness.
+
+vanilla 
+Users report that the sound quality is poor, describing it as tinny, hollow, and lacking depth. The audio is flat, muted, and thin, with weak acoustics, no richness, and minimal bass, resulting in lifeless volume.
+
+Set 3
+The app is slow.
+
+It lags frequently.
+
+The interface responds sluggishly.
+
+It hangs at times.
+
+The menus take ages.
+
+It delays every time.
+
+The click response is tardy.
+
+It pauses unexpectedly.
+
+The screen freezes.
+
+It drags when loading.
+
+output: 
+
+sc 
+The app regularly lags and freezes, causing delays in interface response, menu loading, and click response.
+
+
+vanilla 
+Users report that the app performs slowly, with frequent lag, sluggish interface response, and occasional freezing. Menus and screens take a long time to load, and actions are often delayed, with unexpected pauses and slow click responses.
+
+
+Set 4
+The screen is dim.
+
+It lacks brightness.
+
+The display is dull.
+
+It’s hard to see.
+
+The backlight is weak.
+
+It’s too dark.
+
+The panel is murky.
+
+It’s underlit.
+
+The visuals fade.
+
+It’s not vivid.
+
+output: 
+
+sc 
+The device's display has been critiqued for its dim and underlit screen, resulting in dull visuals that appear too dark.
+
+
+vanilla 
+Users report that the screen is too dark, with a weak backlight and low brightness. The display appears dull, murky, and underlit, making it hard to see and causing the visuals to lack vividness.
+
+Set 5
+It overheats quickly.
+
+It gets hot fast.
+
+The temperature spikes.
+
+It warms up immediately.
+
+The heat builds rapidly.
+
+It becomes scorching.
+
+The device burns up.
+
+It’s sweltering in seconds.
+
+It’s uncomfortably warm.
+
+The temperature rises too much.
+
+output: 
+
+sc 
+The device heats up instantly and can overheat, potentially burning up within seconds.
+
+
+vanilla 
+Users report that the device overheats quickly, with the temperature rising rapidly and becoming uncomfortably warm within seconds. It heats up fast, builds excessive heat, and can feel scorching during use.

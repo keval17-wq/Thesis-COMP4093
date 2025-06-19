@@ -1,0 +1,86 @@
+1. Rare-Issue Recall
+1.1 Defining “Rare”
+Within each 10-review set, count how many reviews mention a given issue (e.g. shocks, sparks).
+
+Label an issue “rare” if it appears in ≤10% of reviews—in your 10-review sets that’s exactly 1 review.
+
+1.2 Detecting and Counting
+Input analysis: Tag sentences in the raw 10 reviews that mention the rare flaw.
+
+Summary analysis: Check whether the summariser’s output contains a paraphrase or exact mention of that flaw.
+
+Recall = (Number of sets where the flaw is mentioned in summary) / (Total sets).
+
+1.3 Position as a Salience Proxy
+We record the line index (1st sentence, 2nd, etc.) where that flaw first appears in the summary.
+
+Why it matters:
+
+If a user skims only the first sentence or two, an early mention greatly increases the chance the flaw is noticed.
+
+Empirically, human attention drops off after 1–2 lines in a paragraph.
+
+1.4 Metrics to Report
+Recall Rate (e.g. 4/5 sets = 80%).
+
+Average Mention Position (e.g. 2.4 across all sets).
+
+Early-Mention Rate: % of sets where flaw appears in the first sentence.
+
+2. Sarcasm Interpretation
+2.1 Defining “Sarcasm”
+We seed each set with sentences that use positive words (“love”, “great”) but obviously mean the opposite.
+
+These are synthetically flagged as “sarcastic” in the raw data.
+
+2.2 Detecting in Summaries
+A summary “correctly interprets sarcasm” if it recasts the intended negative meaning rather than preserving the literal praise.
+
+E.g. raw “Oh great, only three hours battery” → summary says “short battery life.”
+
+2.3 Metrics to Report
+Sarcasm-Detection Accuracy = (Number of sarcastic lines correctly inverted) / (Total sarcastic lines).
+
+False-Positive Rate = % of non-sarcastic lines misread as negative.
+
+3. Misdirection Neutralization
+3.1 Defining “Misdirection”
+Reviews that begin with praise but end with a flaw.
+
+In our sets, every review is of form: [positive clause], but [negative clause].
+
+3.2 Evaluating Summaries
+Flaw Emphasis Ratio = (Position weight of flaw mention) / (Position weight of praise mention).
+
+If flaw appears earlier or in same clause, ratio ≥1 → good neutralization.
+
+Or simply: Flaw-First Rate: % of summaries that mention the flaw clause before the praise.
+
+3.3 Metrics to Report
+Flaw-First Rate (e.g. SC5 = 100%, SC4 = 20%).
+
+Flaw-Salience Score: normalized rank difference between flaw and praise mentions.
+
+4. Contradiction Preservation
+4.1 Defining “Contradiction”
+Reviews that express opposite truths: “Battery lasts 8 h — except when streaming.”
+
+4.2 Evaluating Summaries
+Check if the summary retains both aspects with a clear connective (but, however).
+
+Preservation Rate = (Number of contradiction pairs correctly restated) / (Total pairs).
+
+4.3 Metrics to Report
+Contrast-Integrity Score: binary correct/incorrect per pair.
+
+Average Clausal Balance: ratio of positive vs negative clause lengths.
+
+5. (Bonus) Redundancy & Ambiguity Handling
+Redundancy: Count unique fact mentions.
+
+Redundancy Rate = 1 − ( (# of repeated facts) / (# of total facts) ).
+
+Ambiguity: For pronoun-heavy reviews, measure whether the summary resolved references.
+
+Ambiguity-Resolution Accuracy via manual check: % of “it/this” mapped clearly to the correct noun.
+

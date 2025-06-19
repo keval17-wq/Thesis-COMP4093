@@ -132,8 +132,7 @@ def scenario_5_augmented_v2(
     print(f"[DEBUG] Saving results to: {output_path}")
     save_summaries(
         [
-            "Extracted Top Sentences (Scenario 5 v2):\n" + "\n".join(top_sentences),
-            "\nFinal Factual Summary:\n" + summary
+            summary
         ],
         output_path
     )

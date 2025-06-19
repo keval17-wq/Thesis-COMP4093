@@ -1,0 +1,231 @@
+Appendix: 
+
+ Set 1 – Golden Summary
+The device looks stylish, charges quickly and offers useful features, but real-world use quickly exposes serious flaws: it overheats, freezes and sometimes crashes before finishing startup; the battery drains almost as fast as it charges; promised fast updates never arrive and every bug-fix release seems to introduce a new glitch. Sound quality is good until the speaker pops, and the “water-proof” build still lets water leak inside. Overall, reliability is so poor that each small gain is cancelled by a larger failure.
+
+ Set 2 – Golden Summary
+First impressions are positive—easy phone sync, bright lights, solid feel and a quiet motor—but each strength collapses under use. Connections drop, the “improved” camera still blurs images, the intuitive interface becomes confusing, and the latest app update actually breaks the device. LEDs fade, the casing cracks, long-range claims fall short, the once-quiet unit roars, and the cleaner that starts strong ends up clogged and noisy. What begins as polished quickly turns unreliable and loud.
+
+ Set 3 – Golden Summary
+On paper the product tracks steps accurately, pairs with anything and offers beefed-up battery life, yet practice tells a different story: it mis-counts stairs, drains under heavy load, misreads some reviews, and bundled software slows everything down. Low-battery alerts fail to appear, “pair-with-anything” refuses to pair with the reviewer’s own device, “improved” audio still crackles, smooth motion devolves into jitters, and a code rewrite freezes the entire screen. A simple-looking solution proves convoluted and brittle under stress.
+
+ Set 4 – Golden Summary
+Marketed as compact, silent and splash-proof, the unit feels bulky, hums audibly and soaks through at the first splash. It heats food well—until it scorches; rotates smoothly—until it sticks; and promises real-time data that arrives with a delay. Barcode scans are quick but often wrong, the added beep is more annoying than helpful, the lock meant to stay put slips, and “long reach” extends barely half the promised distance. Each claimed convenience hides an equal and opposite frustration.
+
+Set 5 – Golden Summary
+Shipping was fast, but the box arrived damaged. The “universal” part fits only some models, cooks require fiddly adjustment, and the upgraded sensor still misses targets. What feels sturdy soon wobbles; “precision” measurements are inches off; the device handles load until it grinds; “reliable” hardware breaks; quick-lock mechanisms jam; and promised crystal clarity turns out fuzzy. Every boast comes with a matching let-down, leaving reliability and accuracy in doubt.
+
+Review Sets: 
+
+Set 1
+It freezes whenever I open it.
+
+This doesn’t last as long as it should.
+
+They promised fast updates, but it failed.
+
+It crashes on startup sometimes.
+
+I love the design, but it overheats.
+
+This has great features, though it’s glitchy.
+
+They fixed one bug, and it introduced another.
+
+It charges quickly but dies fast.
+
+This sounds great until it pops.
+
+They say it’s waterproof, yet it leaks.
+
+output: 
+
+sc 
+The product, lauded for its features, design, quick charging, and sound quality, is marketed as waterproof. Users, however, report glitches, popping sounds, overheating, freezing, rapid battery drain, startup crashes, and leakage. Despite bug fixes, new issues arise and fast updates are lacking. The product's durability has been criticized.
+
+
+vanilla 
+The product has a sleek design, great features, and charges quickly, but it sometimes crashes on startup, freezes when opened, overheats, and is prone to glitches. While it includes fast updates and bug fixes, these can introduce new issues. It doesn’t last long on a charge, can leak despite being marketed as waterproof, and may emit a popping sound.
+
+=== Scenario 4 vs Benchmark ===
+ROUGE-1 F1: 0.4837
+ROUGE-2 F1: 0.1060
+ROUGE-L F1: 0.2353
+Cosine Similarity: 0.3889
+
+=== Scenario 5 vs Benchmark ===
+ROUGE-1 F1: 0.4800
+ROUGE-2 F1: 0.1351
+ROUGE-L F1: 0.1733
+Cosine Similarity: 0.4252
+
+Set 2
+It syncs with my phone, but this often disconnects.
+
+They improved the camera, but it still blurs.
+
+It’s intuitive, yet this gets confusing.
+
+They updated the app, and it broke.
+
+It lights up nicely but then fades.
+
+This feels solid until it cracks.
+
+They claim long range, but it drops.
+
+It’s quiet at first, then it roars.
+
+This cleans well, but then it clogs.
+
+They advertised silence; it’s loud.
+
+output: 
+
+sc 
+The product, initially quiet, becomes loud and its brightness diminishes over time. The improved camera still blurs, and the effective cleaner clogs with use. It's solid but can crack, and the updated app is dysfunctional. Despite its long-range claim, connection drops occur. Phone syncing is unstable and it can be confusing despite its intuitiveness.
+
+
+vanilla 
+The product syncs with phones but often disconnects, has an improved yet still blurry camera, and is intuitive though occasionally confusing. While the app was updated, it became nonfunctional. The lighting looks nice initially but fades, and the device feels solid before cracking. Despite claims of long range, the connection drops. It starts out quiet but becomes loud, cleans effectively at first but later clogs, and although marketed as silent, it is noisy.
+
+=== Scenario 4 vs Benchmark ===
+ROUGE-1 F1: 0.4901
+ROUGE-2 F1: 0.0671
+ROUGE-L F1: 0.2649
+Cosine Similarity: 0.4133
+
+=== Scenario 5 vs Benchmark ===
+ROUGE-1 F1: 0.4925
+ROUGE-2 F1: 0.1515
+ROUGE-L F1: 0.2090
+Cosine Similarity: 0.4054
+
+
+Set 3
+It tracks my steps accurately, but this fails at stairs.
+
+They enhanced battery life, yet it balks under load.
+
+It reads reviews easily, but this misreads some.
+
+They bundled software; it slows things down.
+
+It glows red when low, but then it doesn’t alert.
+
+This pairs with any device, yet it won’t pair with mine.
+
+They improved audio; it still crackles.
+
+It moves smoothly, but this jitters.
+
+They rewrote the code, and it froze my screen.
+
+It looked simple, yet this is convoluted.
+
+output: 
+
+sc 
+The software bundle and rewritten code cause slowdowns and freezing. Despite improved battery life and audio, it struggles under load and crackles. The device can jitter, misread reviews, and inaccurately track stairs. It glows red when low on battery without alerting the user. Its design is convoluted despite seeming simple. It failed to pair with my device.
+
+
+vanilla 
+
+The device tracks steps accurately and reads reviews easily, glows red when the battery is low, pairs with any device, moves smoothly, and features improved audio and enhanced battery life due to rewritten code and bundled software. However, it fails to track stairs, misreads some reviews, does not alert after glowing red, won't pair with a specific device, jitters at times, still crackles, slows down due to bundled software, balks under load, froze the screen despite the code rewrite, and is more convoluted than it appears.
+
+=== Scenario 4 vs Benchmark ===
+ROUGE-1 F1: 0.5380
+ROUGE-2 F1: 0.1538
+ROUGE-L F1: 0.2690
+Cosine Similarity: 0.5044
+
+=== Scenario 5 vs Benchmark ===
+ROUGE-1 F1: 0.4965
+ROUGE-2 F1: 0.0719
+ROUGE-L F1: 0.2553
+Cosine Similarity: 0.4282
+
+
+Set 4
+It’s compact, but this feels bulky in a pocket.
+
+They marketed it as silent, yet it hums.
+
+It heats food well, but this scorches.
+
+They made it splash-proof; it soaked through.
+
+It rotates smoothly until this sticks.
+
+They promised real-time updates; it delays.
+
+It reads barcodes quickly, yet this misreads.
+
+They added a beep; it’s annoying.
+
+It locks in place, but this slips.
+
+They claim long reach; it barely covers half.
+
+output: 
+
+sc 
+The product rotates smoothly until it locks, but can slip. It scans barcodes rapidly but sometimes inaccurately. It's not silent as advertised, producing a hum. It heats food well but may burn it. Its reach is half the advertised distance. Real-time updates are delayed and it's not completely splash-proof. Despite a compact design, it feels bulky in a pocket. The beep feature is irritating.
+
+
+vanilla 
+The product is compact, heats food well, rotates smoothly, reads barcodes quickly, includes a beep, locks in place, and is marketed as silent, splash-proof, and capable of real-time updates with long reach. However, it feels bulky in a pocket, hums during use, scorches food, lets water through, sometimes sticks, delays updates, occasionally misreads barcodes, has an annoying beep, slips despite locking, and does not reach as far as claimed.
+
+=== Scenario 4 vs Benchmark ===
+ROUGE-1 F1: 0.4837
+ROUGE-2 F1: 0.1060
+ROUGE-L F1: 0.2353
+Cosine Similarity: 0.3889
+
+=== Scenario 5 vs Benchmark ===
+ROUGE-1 F1: 0.4800
+ROUGE-2 F1: 0.1351
+ROUGE-L F1: 0.1733
+Cosine Similarity: 0.4252
+
+Set 5
+It arrived fast, but this box was damaged.
+
+They said it’s universal; it doesn’t fit all.
+
+It cooks evenly; this needs adjustment.
+
+They improved the sensor; it still misses.
+
+It feels sturdy until this wobbles.
+
+They touted precision; it’s off by inches.
+
+It handles the load; this grinds under stress.
+
+They branded it reliable; it broke.
+
+It locks quickly; this jams.
+
+They promised clarity; it’s fuzzy.
+
+output: 
+
+sc 
+The product, marketed as reliable and clear, is faulty and fuzzy. Sensor improvements didn't prevent misses. The quick lock jams and a part wobbles despite sturdiness. Precision is off by inches. It cooks evenly with adjustments. Fast delivery resulted in a damaged box. It handles load but grinds under stress. Advertised as universal, it doesn't fit all.
+
+
+vanilla 
+The product arrived quickly and cooks evenly, with improved sensors and a design that feels sturdy, handles the load, locks quickly, and is marketed as universal, precise, reliable, and clear. However, the box was damaged, it doesn’t fit all as claimed, some functions need adjustment, the sensor still misses at times, parts wobble, precision is off, it grinds under stress, it broke despite reliability claims, occasionally jams, and the clarity is not as promised.
+
+=== Scenario 4 vs Benchmark ===
+ROUGE-1 F1: 0.3312
+ROUGE-2 F1: 0.0129
+ROUGE-L F1: 0.1401
+Cosine Similarity: 0.3860
+
+=== Scenario 5 vs Benchmark ===
+ROUGE-1 F1: 0.2270
+ROUGE-2 F1: 0.0144
+ROUGE-L F1: 0.1277
+Cosine Similarity: 0.2940
